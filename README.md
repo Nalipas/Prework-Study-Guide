@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows) for suggestions on which topic to study first! A console should open on either the side or bottom of the application, where you can see a list of topics covered  in our Prework, and a suggestion on which to study first. 
+Using this study guide is as simple as reading the notes from the relevant topic. Open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows) for suggestions on which topic to study first! A console should open on either the side or bottom of the application, where you can see a list of topics covered  in our Prework, and a suggestion on which to study first. 
 
 ## Credits
 
@@ -19,4 +19,4 @@ N/A
 
 ## License
 
-Please refeer to the LICENSE in the repository.
+Please refer to the LICENSE in the repository.
